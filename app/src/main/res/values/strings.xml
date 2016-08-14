@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">TourMate</string>
+    <string name="title_activity_contact_insert">Contact Insert</string>
+    <string name="title_activity_single_details">single details</string>
+    <string name="title_activity_event_insert">Event Insert</string>
+    <string name="title_activity_event_list">Event list</string>
 </resources>

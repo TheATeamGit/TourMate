@@ -1,10 +1,9 @@
 package com.example.hasibuzzaman.tourmate;
 
 
-import com.example.hasibuzzaman.tourmate.Model.EventModel;
-import com.example.hasibuzzaman.tourmate.Database.EventDBSource;
+
 import com.example.hasibuzzaman.tourmate.Database.ProfileDBSource;
-import com.example.hasibuzzaman.tourmate.Model.EventModel;
+
 import com.example.hasibuzzaman.tourmate.Model.ProfileModel;
 
 import android.app.Activity;

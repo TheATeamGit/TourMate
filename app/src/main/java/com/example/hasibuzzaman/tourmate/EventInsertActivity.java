@@ -10,12 +10,13 @@ import com.example.hasibuzzaman.tourmate.Model.ProfileModel;
 import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
 
-public class EventInsertActivity extends Activity {
+public class EventInsertActivity extends AppCompatActivity {
 	EditText profileIDEt,nameEt,placeEt,startEt,endEt,budgetEt;
     String name,place,start,end;
     int profile_id;
